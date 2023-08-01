@@ -1,0 +1,16 @@
+.btnList {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    padding: 5px 20px;
+    cursor: pointer;
+    border: transparent;
+    border-radius: 5px;
+    background-color:#DBC7C9;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #CD9B9D;
+}
